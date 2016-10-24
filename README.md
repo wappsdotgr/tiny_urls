@@ -13,4 +13,4 @@ The amazing [Medoo](https://github.com/catfan/Medoo) is used for DB interactions
 
 ### Copyright
 
-just do whatever u like :)
+just do whatever u like :) (GNU General Public License v3.0)
