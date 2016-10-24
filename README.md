@@ -8,7 +8,7 @@ A small Lib to use as a personal **Tiny Url** service.
 - Code Bookmarklet to direct add links
 - ...
 
-### 3rd Party
+### 3rd Party (dependencies)
 
 The amazing [Medoo](https://github.com/catfan/Medoo) is used for DB interactions and is under the MIT license. Thx a tone!
 
