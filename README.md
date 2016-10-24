@@ -4,8 +4,9 @@ A small Lib to use as a personal **Tiny Url** service.
 
 ### ToDo
 
-- Code Manager to handle links
+- Code Manager to handle links (add copy link button)
 - Code Bookmarklet to direct add links
+- ...
 
 ### 3rd Party
 
